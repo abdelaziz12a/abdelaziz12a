@@ -1,10 +1,10 @@
 
 
-<h1 align="center" styel="display: flex;">Hi there 👋, I'm 
-<p align="center">
-  <img src="./ChatGPT Image May 24, 2025, 08_31_34 PM.png" width="600"/>
-</p>
-</h1>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <h1 style="margin: 0;">Hi there 👋, I'm</h1>
+  <img src="./ChatGPT Image May 24, 2025, 08_31_34 PM.png" width="100" alt="My Image" />
+</div>
+
 <p align="center">
   💻 Software Engineering Student at 1337 | 🛡️ Future Cybersecurity Expert<br>
   🚀 On a mission to build, break, and secure systems.<br>
