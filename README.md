@@ -1,10 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdelaziz12a/abdelaziz12a/main/A_digital_illustration_features_a_personal_banner_.png" alt="Abdelaziz Banner" width="1000" />
+</p>
 
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <h1 style="margin: 0;">Hi there 👋, I'm</h1>
-  <img src="./ChatGPT Image May 24, 2025, 08_31_34 PM.png" width="100" alt="My Image" />
-</div>
-
+<h1 align="center">Hi there 👋, I'm Abdelaziz</h1>
 <p align="center">
   💻 Software Engineering Student at 1337 | 🛡️ Future Cybersecurity Expert<br>
   🚀 On a mission to build, break, and secure systems.<br>
@@ -43,16 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" width="335"/>
-</p>
-
----
-
 ### ✨ Fun Fact
 
 > I don’t just write code — I **craft** systems, break them for fun, and rebuild them stronger.
-
