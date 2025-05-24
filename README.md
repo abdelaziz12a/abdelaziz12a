@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there 👋, I'm 
+<h1 align="center" styel="display: flex;">Hi there 👋, I'm 
 <p align="center">
   <img src="./ChatGPT Image May 24, 2025, 08_31_34 PM.png" width="600"/>
 </p>
