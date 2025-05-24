@@ -1,8 +1,8 @@
+<h1 align="center">Hi there 👋, I'm Abdelaziz</h1>
 <p align="center">
-  <img src="./ChatGPT Image May 24, 2025, 08_31_34 PM.png" alt="Abdelaziz Banner" width="600" />
+  <img src="./ChatGPT Image May 24, 2025, 08_31_34 PM.png" alt="Abdelaziz Banner" width="300" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Abdelaziz</h1>
 <p align="center">
   💻 Software Engineering Student at 1337 | 🛡️ Future Cybersecurity Expert<br>
   🚀 On a mission to build, break, and secure systems.<br>
