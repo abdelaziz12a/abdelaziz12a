@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdelaziz12a/abdelaziz12a/main/A_digital_illustration_features_a_personal_banner_.png" alt="Abdelaziz Banner" width="1000" />
+  <img src="./ChatGPT Image May 24, 2025, 08_31_34 PM.png" alt="Abdelaziz Banner" width="600" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Abdelaziz</h1>
