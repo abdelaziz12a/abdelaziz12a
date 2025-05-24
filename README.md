@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <p align="center">
   <img src="./ChatGPT Image May 24, 2025, 08_31_34 PM.png" alt="Abdelaziz Banner" width="300" />
-</p>
+</p> </h1>
   
 <p align="center">
   💻 Software Engineering Student at 1337 | 🛡️ Future Cybersecurity Expert<br>
