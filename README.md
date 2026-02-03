@@ -35,13 +35,15 @@ under the hood, and writing clean, efficient code.
 Some of the projects I worked on at 1337:
 - **libft**- **get_next_line**- **push_swap**- **minishell**- **philosophers**
 
-👉 Check my repositories to see detailed implementations:
+<p align="center">
+  <a href="https://github.com/abdelaziz12a/-1337--PROJECTS">
+    <img src="https://img.shields.io/badge/C-Projects-blue.svg"/>
+  </a>
+  <a href="https://github.com/abdelaziz12a/CPP-MODULES">
+    <img src="https://img.shields.io/badge/C++-Projects-00599C.svg"/>
+  </a>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> 
-[C Projects](https://github.com/abdelaziz12a/-1337--PROJECTS)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> 
-[C++ Projects](https://github.com/abdelaziz12a/CPP-MODULES)
 ---
 ## 🎯 Goals
 - Deepen my expertise in **system programming**
