@@ -37,8 +37,8 @@ Some of the projects I worked on at 1337:
 
 👉 Check my repositories to see detailed implementations: clic hear 👇
 
-[![C](https://img.shields.io/badge/Language-C-blue.svg)](https://github.com/abdelaziz12a/-1337--PROJECTS)
-[![C++](https://img.shields.io/badge/Language-C++-00599C.svg)](https://github.com/abdelaziz12a/CPP-MODULES)
+[(https://img.shields.io/badge/Projects-C-blue.svg)![C]](https://github.com/abdelaziz12a/-1337--PROJECTS)
+[(https://img.shields.io/badge/Projects-C++-00599C.svg)![C++]](https://github.com/abdelaziz12a/CPP-MODULES)
 
 ---
 ## 🎯 Goals
