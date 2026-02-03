@@ -37,8 +37,11 @@ Some of the projects I worked on at 1337:
 
 👉 Check my repositories to see detailed implementations:
 
-[![C](https://img.shields.io/badge/Language-C-blue.svg)](https://github.com/abdelaziz12a/-1337--PROJECTS)
-[![C++](https://img.shields.io/badge/Language-C++-00599C.svg)](https://github.com/abdelaziz12a/CPP-MODULES)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> 
+[C Projects](https://github.com/abdelaziz12a/-1337--PROJECTS)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> 
+[C++ Projects](https://github.com/abdelaziz12a/CPP-MODULES)
 ---
 ## 🎯 Goals
 - Deepen my expertise in **system programming**
