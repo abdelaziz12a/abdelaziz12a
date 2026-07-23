@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz Aboudrar</h1>
-
-[![aaboudra's 42 stats](https://badge.mediaplus.ma/starryblue/aaboudra)](https://github.com/oakoudad/badge42)
-
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/starryblue/aaboudra" alt="42 Badge">
+  </a>
+</p>
 <h3 align="center">
 Student at 1337 Coding School • C & C++ Developer
 </h3>
