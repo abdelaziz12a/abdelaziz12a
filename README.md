@@ -13,7 +13,6 @@ Student at 1337 Coding School
 <p align="center">
 Passionate about low-level programming, system programming, computer networks, and building software from the ground up.
 </p>
-
 <p align="center">
 Currently learning C, C++, Unix systems, networking, algorithms, and software architecture through the 1337 / 42 Network / UM6P / Maroc.
 </p>
@@ -26,38 +25,7 @@ Currently learning C, C++, Unix systems, networking, algorithms, and software ar
 - ⚙️ Working with **Linux / Unix**
 - 🧩 Building projects focused on algorithms, memory management, and software architecture
 - 🚀 Enjoy solving programming challenges and improving code quality
-
----
-## 📂 Projects
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" alt="C"/> Projects
-
-| Project | Description |
-|---------|-------------|
-| **libft** | Built a custom C standard library to strengthen my understanding of pointers, memory management, and reusable code. |
-| **get_next_line** | Implemented a function to read files line by line while managing buffers and static memory. |
-| **push_swap** | Developed an efficient sorting algorithm using stacks, focusing on algorithm optimization and complexity. |
-| **minishell** | Built a Unix shell supporting parsing, pipes, redirections, environment variables, and process management. |
-| **philosophers** | Solved the Dining Philosophers problem using threads, mutexes, synchronization, and concurrent programming. |
-
-<p align="center">
-<a href="https://github.com/abdelaziz12a/-1337--PROJECTS">
-<img src="https://img.shields.io/badge/View%20C%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" alt="C++"/> C++ Projects
-
-| Project | Description |
-|---------|-------------|
-| **CPP Modules** | Learned modern C++ fundamentals including OOP, inheritance, polymorphism, templates, exceptions, STL, and resource management (RAII). |
-
-<p align="center">
-<a href="https://github.com/abdelaziz12a/CPP-MODULES">
-<img src="https://img.shields.io/badge/View%20C++%20Modules-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</a>
-</p>
+- 
 ---
 ## 🛠️ Technologies & Tools
 
