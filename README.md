@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abdelaziz
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/aaboudra" alt="aaboudra's 42 stats" /></a>
+
 [![aaboudra's 42 stats](https://badge.mediaplus.ma/starryblue/aaboudra)](https://github.com/oakoudad/badge42)
 🎓 **Student at 1337 Coding School**  
 💻 **Low-level & System Programming Enthusiast**
