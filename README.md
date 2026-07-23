@@ -15,7 +15,7 @@ Passionate about low-level programming, system programming, computer networks, a
 </p>
 
 <p align="center">
-Currently learning C, C++, Unix systems, networking, algorithms, and software architecture through the 1337 curriculum.
+Currently learning C, C++, Unix systems, networking, algorithms, and software architecture through the 1337 / 42 Network / UM6P / Maroc.
 </p>
 
 ---
