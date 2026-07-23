@@ -1,55 +1,79 @@
-# 👋 Hi, I'm Abdelaziz
+<h1 align="center">Hi 👋, I'm Abdelaziz Aboudrar</h1>
 
-[![aaboudra's 42 stats](https://badge.mediaplus.ma/starryblue/aaboudra)](https://github.com/oakoudad/badge42)
+<h3 align="center">
+Student at 1337 Coding School • C & C++ Developer
+</h3>
 
-🎓 **Student at 1337 Coding School**  
-💻 **Low-level & System Programming Enthusiast**
+<p align="center">
+Passionate about low-level programming, system programming, and understanding how software works under the hood.
+</p>
 
-I am a highly motivated programming student at **1337**, with a strong focus on
-**C and C++**, and a solid foundation in **computer science fundamentals**.
-I enjoy building things close to the system, understanding how software works
-under the hood, and writing clean, efficient code.
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 ---
-## 🧠 What I’ve Learned
-### 🔹 C Programming
-- Memory management (malloc, free)
-- Pointers & data structures
-- File descriptors & system calls
-- Algorithmic thinking and optimization
-- Unix-based development
-### 🔹 C++ Programming
-- Object-Oriented Programming (OOP)
-- Inheritance & polymorphism
-- Abstract classes & interfaces
-- Rule of Three / Rule of Five
-- Resource management (RAII)
-### 🔹 Python (Basics)
-- Scripting & automation
-- Problem solving
-- Writing clean and readable code
+
+## 💻 About Me
+
+- 🎓 Student at **1337 Coding School**
+- 💻 Focused on **C** and **C++**
+- 🐧 Working daily on **Linux / Unix**
+- ⚙️ Interested in system programming and software fundamentals
+- 📚 Continuously learning through 1337 projects
+
 ---
-## 🛠️ Technical Skills
-- **Languages:** C, C++, Python  
-- **Tools:** Git, GitHub, GCC, Makefile  
-- **Systems:** Linux / Unix  
+
+## 🛠️ Tech Stack
+
+### Languages
+- C
+- C++
+
+### Tools
+- Git
+- GitHub
+- GCC
+- Make
+- Linux / Unix
+
 ---
+
 ## 📂 1337 Projects
-Some of the projects I worked on at 1337:
-- **libft**- **get_next_line**- **push_swap**- **minishell**- **philosophers**
 
-👉 Check my repositories to see detailed implementations: clic hear 👇
+Projects completed during my journey at **1337**:
 
-[![C](https://img.shields.io/badge/C-Projects-blue.svg)](https://github.com/abdelaziz12a/-1337--PROJECTS)
-[![C++](https://img.shields.io/badge/C++-Projects-00599C.svg)](https://github.com/abdelaziz12a/CPP-MODULES)
+- 📚 Libft
+- 📖 Get Next Line
+- 🔀 Push Swap
+- 🐚 Minishell
+- 🍝 Philosophers
+
+<p align="center">
+<a href="https://github.com/abdelaziz12a/-1337--PROJECTS">
+<img src="https://img.shields.io/badge/C%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abdelaziz12a/CPP-MODULES">
+<img src="https://img.shields.io/badge/C++%20Modules-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</a>
+</p>
 
 ---
-## 🎯 Goals
-- Deepen my expertise in **system programming**
-- Master **C / C++** at an advanced level
-- Grow as a software engineer through challenging projects
-- Build a strong technical career and impactful software
+
+## 📫 Contact
+
+<p align="center">
+<a href="https://github.com/abdelaziz12a">
+<img src="https://img.shields.io/badge/GitHub-abdelaziz12a-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
 ---
-## 📫 Let’s Connect
-- GitHub: https://github.com/abdelaziz12a
----
-⭐ *Always learning, always improving.*
+
+<p align="center">
+<i>Always learning.</i>
+</p>
