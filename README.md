@@ -30,7 +30,7 @@ Currently learning C, C++, Unix systems, networking, algorithms, and software ar
 ---
 ## 📂 Projects
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" alt="C"/> C Projects
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" alt="C"/> Projects
 
 | Project | Description |
 |---------|-------------|
